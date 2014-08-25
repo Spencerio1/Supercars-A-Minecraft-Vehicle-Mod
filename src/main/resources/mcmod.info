@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "supercars+",
+  "name": "Supercars+",
+  "description": "A car mod that adds tons of car related stuff, and if you can make models and textures, and can use configs, then you can make your own custom cars!",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2164629-supercars-easily-create-custom-cars-in-a-config",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Spencerio, Parker8283, Abob78"],
+  "credits": "Thanks to everyone who's helped this mod in any way!",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
