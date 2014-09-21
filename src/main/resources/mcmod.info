@@ -6,7 +6,7 @@
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2164629-supercars-easily-create-custom-cars-in-a-config",
-  "updateUrl": "",
+  "updateUrl": "http://x-tr3m3.com/supercar/supercarmod.jar",
   "authorList": ["Spencerio, Parker8283, Abob78"],
   "credits": "Thanks to everyone who's helped this mod in any way!",
   "logoFile": "",
